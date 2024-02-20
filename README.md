@@ -1,2 +1,2 @@
 # FTCTutorialCode
-FTC Tutorial Code mode public by FTC 22012 Loose Screws
+FTC Tutorial Code made public by FTC 22012 Loose Screws
